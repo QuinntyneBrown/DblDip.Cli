@@ -1,0 +1,9 @@
+{  
+  "Projects": "",
+  "DatabaseConnectionPropertyKey": "",
+  "DatabaseSettingsKey": "",
+  "SolutionName": "DblDip.Cli.sln",
+  "RootNamespace": "DblDip",
+  "SourceFolder": "src",
+  "TestFolder": "test"
+}
